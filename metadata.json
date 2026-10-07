@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets - Financial Markets Intelligence",
+  "description": "Real-time world stock markets, crypto, forex, indices, futures, heatmaps, and interactive terminal charting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
